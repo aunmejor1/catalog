@@ -518,7 +518,7 @@ def construir_summary(contexto: Dict[str, Any], filtros: List[Dict[str, Any]], t
 
 DATASET = generar_datos()
 
-mcp = FastMCP("bbva-catalogo")
+mcp = FastMCP("catalogo")
 
 
 @mcp.tool()
