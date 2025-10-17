@@ -1,6 +1,6 @@
 # DataToSQL
 
-Este proyecto contiene un servidor MCP denominado **bbva-catalogo** construido con [FastMCP](https://gofastmcp.com/) que expone un catálogo sintético de productos tecnológicos. El servidor se ejecuta en modo STDIO mediante `fastmcp run fastmcp.json`.
+Este proyecto contiene un servidor MCP denominado **catalogo** construido con [FastMCP](https://gofastmcp.com/) que expone un catálogo sintético de productos tecnológicos. El servidor se ejecuta en modo STDIO mediante `fastmcp run fastmcp.json`.
 
 ## Herramientas disponibles
 
